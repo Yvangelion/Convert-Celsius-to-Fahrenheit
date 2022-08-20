@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class classlab2dot1 {
 
-	/* Yvan Ngah
+	/* 
 	 * Computer Science 1 Spring
 	 * 2-1 Convert Celsius to Fahrenheit. 
 	 *
